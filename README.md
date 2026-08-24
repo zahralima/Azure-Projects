@@ -1,2 +1,2 @@
-# Azure_VM_Porta-Version
-In this Repository, I will be trying to upload my Azure projects while I am learning how to work with Azure
+In this repository, I'm going to demonstrate the projects I'm working on to gain hands-on experience with Azure and learn more about cloud computing and networking.
+In each folder, you can find the files related to a specific Azure resource or project, along with a README file that provides a summary and explanation of that project.
